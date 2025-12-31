@@ -33,3 +33,15 @@ A simple calculator built with **React** and **mathjs** for evaluating expressio
 1. Clone the repository:
    ```bash
    git clone https://github.com/JonBuwembo/buwembo-calculator-app.git
+
+2. Navigate to project folder:
+   ```bash
+   cd calculator-web-app
+   
+3. Install packages
+   ```bash
+   npm install
+  
+4. Run the application
+   ```bash
+   npm start 
